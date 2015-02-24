@@ -1,0 +1,18 @@
+
+#clockDisplay{
+background-color:#000000;
+color: #ffffff;
+padding:100px;
+font-size: 50px;
+width: 300px;
+
+}
+
+#box{
+	
+	background: green;
+	height:200px;
+	width:500px;
+	position:absolute;
+
+}

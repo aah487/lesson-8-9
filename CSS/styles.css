@@ -1,0 +1,15 @@
+
+#box{
+
+background:red;
+height:100px;
+width:100px;
+position:absolute;
+
+}
+
+#clockDisplay{
+font-size: 30px;
+width: 205px;
+
+}
